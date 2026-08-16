@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/wolf.png" width="220" alt="a cyberpunk ウルフ (Urufu) chibi — circuit-hair, glowing green, snarling" />
+<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/hero.png" width="220" alt="an apex ウルフ (Urufu) chibi — fire mane, thorn crown, snarling" />
 
 # urufu labs
 
