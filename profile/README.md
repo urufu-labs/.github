@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/wolf.png" width="220" alt="a chibi wolf in a pinstripe suit" />
+<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/wolf.png" width="220" alt="a cyberpunk ウルフ (Urufu) chibi — circuit-hair, glowing green, snarling" />
 
 # urufu labs
 
@@ -55,12 +55,12 @@ Our stack spans four layers, each in its own repo:
 <table>
 <tr>
 <td align="center" width="360">
-<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/sheep.png" width="200" alt="a シープ (Shīpu) chibi — soft, exposed, greedy" />
+<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/sheep.png" width="200" alt="a シープ (Shīpu) chibi — curly-horned, wide-eyed, softly surprised" />
 <h3>シープ <sub><em>Shīpu</em></sub></h3>
 <em>~90% of every collection</em>
 </td>
 <td align="center" width="360">
-<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/wolf.png" width="200" alt="a ウルフ (Urufu) chibi — shabby, predatory, high-variance" />
+<img src="https://raw.githubusercontent.com/urufu-labs/.github/main/profile/assets/wolf.png" width="200" alt="a ウルフ (Urufu) chibi — cyberpunk, snarling, high-variance" />
 <h3>ウルフ <sub><em>Urufu</em></sub></h3>
 <em>~10% of every collection</em>
 </td>
